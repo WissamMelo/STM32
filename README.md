@@ -1,6 +1,7 @@
 # STM32
-Training my codes in a STM32F103C8T6
-![stm32f103-pinout-diagram-1024x724_1.png]()
+Training my codes in a STM32F103C8T6 using STM32CubeMX and TrueSTUDIO.
+
 <img src="stm32f103-pinout-diagram-1024x724_1.png"
-     alt="Markdown Monster icon"
+     alt="Blue Pill pinout"
      style="float: left; margin-right: 10px;" />
+    
